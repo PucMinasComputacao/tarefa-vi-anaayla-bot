@@ -1,18 +1,18 @@
-/* RESET */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* BODY */
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f4f4f4;
   color: #222;
 }
 
-/* HEADER */
+
 header {
   background-color: #2e7d32;
   min-height: 90px;
@@ -47,7 +47,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* HERO */
+
 .hero-text {
   background: rgba(0, 0, 0, 0.5);
   color: white;
@@ -58,7 +58,6 @@ nav a:hover {
   margin: 0 auto;
 }
 
-/* SOBRE */
 .sobre {
   padding: 30px;
   background: white;
@@ -66,7 +65,6 @@ nav a:hover {
   border-radius: 10px;
 }
 
-/* CARDS (ajustado para Bootstrap) */
 .card {
   border-radius: 10px;
   overflow: hidden;
@@ -83,7 +81,6 @@ nav a:hover {
   object-fit: cover;
 }
 
-/* SIDEBAR (agora usa <aside>) */
 aside {
   position: sticky;
   top: 20px;
@@ -109,7 +106,7 @@ aside li {
   margin-bottom: 8px;
 }
 
-/* BLOCOS */
+
 .bloco {
   margin-bottom: 25px;
   padding-bottom: 15px;
@@ -120,7 +117,7 @@ aside li {
   border-bottom: none;
 }
 
-/* BOTÃO */
+
 button {
   margin-top: 15px;
   padding: 10px 20px;
@@ -135,7 +132,7 @@ button:hover {
   opacity: 0.9;
 }
 
-/* FOOTER */
+
 footer {
   background-color: #1b5e20;
   color: white;
@@ -143,7 +140,6 @@ footer {
   padding: 15px;
 }
 
-/* RESPONSIVO (mínimo, só ajuste fino) */
 @media (max-width: 768px) {
   aside {
     position: static;
