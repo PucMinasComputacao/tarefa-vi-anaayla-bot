@@ -9,10 +9,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Ana Ayla Pires Reis 
+- Matricula:919036
+- Proposta de projeto escolhida: Criar um site para trilhas
+- Breve descrição sobre seu projeto: Irá ter várias descrições sobre diversas trilhas, além de dicas, cuidados, e recomendações.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
